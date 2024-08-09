@@ -44,6 +44,7 @@ Carter Bray             Qartar
 Chris Dombroski         cdombroski
 Chris Parsons           chrismdp
 cjhammel                cjhammel
+Claire H                ProtonNumber
 Clayton Hughes
 Clément Vuchener        cvuchener
 Corey                   CoreyJ87
